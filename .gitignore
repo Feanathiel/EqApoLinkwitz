@@ -1,0 +1,8 @@
+[Dd]ebug/
+[Rr]elease/
+obj/
+
+.idea/
+.vs/
+
+*.user
